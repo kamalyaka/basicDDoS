@@ -1,4 +1,5 @@
-# basicDDoS
+### basicDDoS, Basic DDoS tool.
+---
 ### basic python script to show how DDoS attacks work. Included a server and a client script. 📚
 ---
 ### This repository is designed to show you how a basic DDoS attack might operate, these scripts are not meant to be used in malicious ways as they are quite ineffective. They are meant to be used for educational purposes only. Using these scripts to infect computers without consent is illegal and you should not do that. ⚠️

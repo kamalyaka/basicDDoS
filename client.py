@@ -1,5 +1,3 @@
-import os
-os.sys.path.append("c:\python38\lib\site-packages")
 import socket
 import json
 import threading
